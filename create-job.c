@@ -159,7 +159,8 @@ int main(void)
     JOBOBJECT_EXTENDED_LIMIT_INFORMATION info;
     // JOBOBJECT_BASIC_LIMIT_INFORMATION info;
     info.BasicLimitInformation.ActiveProcessLimit = 10;
-    info.BasicLimitInformation.LimitFlags = JOB_OBJECT_LIMIT_ACTIVE_PROCESS;
+    info.BasicLimitInformation.LimitFlags = 0;
+    info.BasicLimitInformation.LimitFlags |= JOB_OBJECT_LIMIT_ACTIVE_PROCESS;
     info.BasicLimitInformation.LimitFlags |= JOB_OBJECT_LIMIT_KILL_ON_JOB_CLOSE;
 
     wprintf(L"Job Object Limit Flags: 0x%X\n", info.BasicLimitInformation.LimitFlags);
@@ -179,10 +180,11 @@ int main(void)
         printf("Quitting!\n");
         return 1;
     } else { printf("success\n"); };
-    Sleep(10000);
-    wprintf(L"KILLING!\n");
-    Sleep(500);
-    CloseHandle(hJob);
+    Sleep(100000);
+    // wprintf(L"KILLING!\n");
+    // Sleep(500);
+    // CloseHandle(hJob);
+    wprintf(L"NOT KILLING\n");
 
 
 
