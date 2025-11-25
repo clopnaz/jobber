@@ -42,7 +42,7 @@ void print_last_error(DWORD error_number)
     LocalFree(message_buffer);
 }
 
-BOOL create_process(PROCESS_INFORMATION* pi, TCHAR cmdline[])
+BOOL create_process(PROCESS_INFORMATION* pi, TCHAR* cmdline)
 {
     STARTUPINFO si;
     // PROCESS_INFORMATION pi;
@@ -57,6 +57,7 @@ BOOL create_process(PROCESS_INFORMATION* pi, TCHAR cmdline[])
     // TCHAR cmdline[] = L"calc.exe";
     if( !CreateProcess(
         NULL,   // No module name (use command line)
+        // cmdline,
         cmdline,
         // argv[1],       // Command line
         NULL,           // Process handle not inheritable
@@ -157,7 +158,7 @@ int main(void)
     // CREATE JOB LIMITS
     JOBOBJECT_EXTENDED_LIMIT_INFORMATION info;
     // JOBOBJECT_BASIC_LIMIT_INFORMATION info;
-    info.BasicLimitInformation.ActiveProcessLimit = 2;
+    info.BasicLimitInformation.ActiveProcessLimit = 10;
     info.BasicLimitInformation.LimitFlags = JOB_OBJECT_LIMIT_ACTIVE_PROCESS;
     info.BasicLimitInformation.LimitFlags |= JOB_OBJECT_LIMIT_KILL_ON_JOB_CLOSE;
 
@@ -173,11 +174,12 @@ int main(void)
 
     // AssignProcessToJobObject(hJob, hThisProcess);
     PROCESS_INFORMATION pi;
-    if (!create_process(&pi, L"cmd.exe")) {
+    TCHAR cmdline[] = L"cmd.exe /c \"start /wait cmd.exe\"";
+    if (!create_process(&pi, cmdline)) {
         printf("Quitting!\n");
         return 1;
     } else { printf("success\n"); };
-    Sleep(500);
+    Sleep(10000);
     wprintf(L"KILLING!\n");
     Sleep(500);
     CloseHandle(hJob);

@@ -6,9 +6,9 @@ set(CMAKE_VERBOSE_MAKEFILE ON)
 # set(CMAKE_C_COMPILER "clang")
 # set(CMAKE_CXX_COMPILER "clang++")
 
-# add_compile_options("-Wall" "-Wpedantic" "-Wextra" "-fexceptions" "-O0;-g3;-ggdb")
+add_compile_options("-Wall" "-Wpedantic" "-Wextra" "-fexceptions" "-O0;-g3;-ggdb")
 
-add_compile_options("-fsanitize=address" "-fsanitize=address" "-shared-libasan"  "-fno-omit-frame-pointer")
+# add_compile_options("-fsanitize=address" "-fsanitize=address" "-shared-libasan"  "-fno-omit-frame-pointer")
 set(MY_TARGETS "hello-world" "create-process" "create-job")
 foreach(MY_TARGET IN LISTS MY_TARGETS)
     add_executable(${MY_TARGET})
