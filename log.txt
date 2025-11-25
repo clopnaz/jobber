@@ -1,0 +1,96 @@
+test
+startstart{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+start
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+start
+start
+start
+start
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\hello-world.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.cpp', 'client_data': <HashableDict {}>}
+start
+[{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/hello-world.dir/hello-world.c.o -c /c/Users/clopn/cc/hello-world/hello-world.c', 'file': '/c/Users/clopn/cc/hello-world/hello-world.c', 'output': 'CMakeFiles/hello-world.dir/hello-world.c.o'}, {'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/create-process.dir/create-process.c.o -c /c/Users/clopn/cc/hello-world/create-process.c', 'file': '/c/Users/clopn/cc/hello-world/create-process.c', 'output': 'CMakeFiles/create-process.dir/create-process.c.o'}, {'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/c++.exe   -Werror -o CMakeFiles/create-job.dir/create-job.cpp.o -c /c/Users/clopn/cc/hello-world/create-job.cpp', 'file': '/c/Users/clopn/cc/hello-world/create-job.cpp', 'output': 'CMakeFiles/create-job.dir/create-job.cpp.o'}]
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+start
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/hello-world.dir/hello-world.c.o -c /c/Users/clopn/cc/hello-world/hello-world.c', 'file': '/c/Users/clopn/cc/hello-world/hello-world.c', 'output': 'CMakeFiles/hello-world.dir/hello-world.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/create-process.dir/create-process.c.o -c /c/Users/clopn/cc/hello-world/create-process.c', 'file': '/c/Users/clopn/cc/hello-world/create-process.c', 'output': 'CMakeFiles/create-process.dir/create-process.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/c++.exe   -Werror -o CMakeFiles/create-job.dir/create-job.cpp.o -c /c/Users/clopn/cc/hello-world/create-job.cpp', 'file': '/c/Users/clopn/cc/hello-world/create-job.cpp', 'output': 'CMakeFiles/create-job.dir/create-job.cpp.o'}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+start
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/hello-world.dir/hello-world.c.o -c /c/Users/clopn/cc/hello-world/hello-world.c', 'file': '/c/Users/clopn/cc/hello-world/hello-world.c', 'output': 'CMakeFiles/hello-world.dir/hello-world.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/create-process.dir/create-process.c.o -c /c/Users/clopn/cc/hello-world/create-process.c', 'file': '/c/Users/clopn/cc/hello-world/create-process.c', 'output': 'CMakeFiles/create-process.dir/create-process.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/c++.exe   -Werror -o CMakeFiles/create-job.dir/create-job.cpp.o -c /c/Users/clopn/cc/hello-world/create-job.cpp', 'file': '/c/Users/clopn/cc/hello-world/create-job.cpp', 'output': 'CMakeFiles/create-job.dir/create-job.cpp.o'}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\hello-world.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.cpp', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+start
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/hello-world.dir/hello-world.c.o -c /c/Users/clopn/cc/hello-world/hello-world.c', 'file': '/c/Users/clopn/cc/hello-world/hello-world.c', 'output': 'CMakeFiles/hello-world.dir/hello-world.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/create-process.dir/create-process.c.o -c /c/Users/clopn/cc/hello-world/create-process.c', 'file': '/c/Users/clopn/cc/hello-world/create-process.c', 'output': 'CMakeFiles/create-process.dir/create-process.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/c++.exe   -Werror -o CMakeFiles/create-job.dir/create-job.cpp.o -c /c/Users/clopn/cc/hello-world/create-job.cpp', 'file': '/c/Users/clopn/cc/hello-world/create-job.cpp', 'output': 'CMakeFiles/create-job.dir/create-job.cpp.o'}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\hello-world.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.cpp', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+start
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/hello-world.dir/hello-world.c.o -c /c/Users/clopn/cc/hello-world/hello-world.c', 'file': '/c/Users/clopn/cc/hello-world/hello-world.c', 'output': 'CMakeFiles/hello-world.dir/hello-world.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/create-process.dir/create-process.c.o -c /c/Users/clopn/cc/hello-world/create-process.c', 'file': '/c/Users/clopn/cc/hello-world/create-process.c', 'output': 'CMakeFiles/create-process.dir/create-process.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/c++.exe   -Werror -o CMakeFiles/create-job.dir/create-job.cpp.o -c /c/Users/clopn/cc/hello-world/create-job.cpp', 'file': '/c/Users/clopn/cc/hello-world/create-job.cpp', 'output': 'CMakeFiles/create-job.dir/create-job.cpp.o'}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\hello-world.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.cpp', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+start
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/hello-world.dir/hello-world.c.o -c /c/Users/clopn/cc/hello-world/hello-world.c', 'file': '/c/Users/clopn/cc/hello-world/hello-world.c', 'output': 'CMakeFiles/hello-world.dir/hello-world.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/create-process.dir/create-process.c.o -c /c/Users/clopn/cc/hello-world/create-process.c', 'file': '/c/Users/clopn/cc/hello-world/create-process.c', 'output': 'CMakeFiles/create-process.dir/create-process.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/c++.exe   -Werror -o CMakeFiles/create-job.dir/create-job.cpp.o -c /c/Users/clopn/cc/hello-world/create-job.cpp', 'file': '/c/Users/clopn/cc/hello-world/create-job.cpp', 'output': 'CMakeFiles/create-job.dir/create-job.cpp.o'}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\hello-world.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.cpp', 'client_data': <HashableDict {}>}
+start
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/hello-world.dir/hello-world.c.o -c /c/Users/clopn/cc/hello-world/hello-world.c', 'file': '/c/Users/clopn/cc/hello-world/hello-world.c', 'output': 'CMakeFiles/hello-world.dir/hello-world.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/cc.exe   -Werror -o CMakeFiles/create-process.dir/create-process.c.o -c /c/Users/clopn/cc/hello-world/create-process.c', 'file': '/c/Users/clopn/cc/hello-world/create-process.c', 'output': 'CMakeFiles/create-process.dir/create-process.c.o'}
+{'directory': '/c/Users/clopn/cc/hello-world/build', 'command': '/clang64/bin/c++.exe   -Werror -o CMakeFiles/create-job.dir/create-job.cpp.o -c /c/Users/clopn/cc/hello-world/create-job.cpp', 'file': '/c/Users/clopn/cc/hello-world/create-job.cpp', 'output': 'CMakeFiles/create-job.dir/create-job.cpp.o'}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\hello-world.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.cpp', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.c', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+start
+start
+start
+start
+start
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\hello-world.c', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+start
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\hello-world.c', 'client_data': <HashableDict {}>}
+start
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\hello-world.c', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\mingw-unicode.c', 'client_data': <HashableDict {}>}
+start
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\hello-world.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\mingw-unicode.c', 'client_data': <HashableDict {}>}
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+start
+{'language': 'python', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\.ycm_extra_conf.py', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-job.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\hello-world.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\mingw-unicode.c', 'client_data': <HashableDict {}>}
+{'language': 'cfamily', 'filename': 'C:\\Users\\clopn\\cc\\hello-world\\create-process.c', 'client_data': <HashableDict {}>}
